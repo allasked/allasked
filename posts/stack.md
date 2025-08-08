@@ -1,6 +1,6 @@
 ---
 title: "The Lean AI Blog Stack We Use to Move Fast"
-date: 2025-08-08
+date: "2025-08-08"
 excerpt: A peek at the simple stack powering AllAsked so we can publish daily without headaches.
 ---
 
