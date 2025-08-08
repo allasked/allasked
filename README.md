@@ -25,3 +25,4 @@ Content here...
 - Colors/typography: `styles/globals.css`
 - Meta tags: `pages/_app.js`
 - Static pages: `pages/about.js`, `pages/contact.js`, `pages/privacy.js`, `pages/terms.js`
+ 
