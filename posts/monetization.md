@@ -1,6 +1,6 @@
 ---
 title: "Monetization Plan: Ads, Affiliates, and Sponsored Deep Dives"
-date: 2025-08-08
+date: "2025-08-08"
 excerpt: Turning attention into revenue without wrecking the user experience.
 ---
 
