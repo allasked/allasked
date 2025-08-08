@@ -1,6 +1,6 @@
 ---
 title: "How We Pick Topics That Actually Get Traffic"
-date: 2025-08-08
+date: "2025-08-08"
 excerpt: Our criteria for what makes the cut — demand, timing, link potential, and uniqueness.
 ---
 
